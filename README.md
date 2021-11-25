@@ -9,7 +9,7 @@ npm install
 
 ### Compiles and hot-reloads
 Now you're ready to compile and run the application with the command below.
-After you did it the application can be acessed in http://localhost:8080/
+After you did it the application can be acessed in http://localhost:8080/#/deck/new
 ```
 npm run serve
 ```
